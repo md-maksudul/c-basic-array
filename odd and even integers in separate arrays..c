@@ -11,7 +11,7 @@ int main() {
         scanf("%d", &array[i]);
     }
 
-    // First loop: Print all even numbers in one row
+    
     printf("Even numbers: ");
     for(i = 0; i < n; i++) {
         if(array[i] % 2 == 0) {
